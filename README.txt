@@ -1,0 +1,1 @@
+Specify a folder containing music files and MusicLister will create a text list of the songs and thier info.
